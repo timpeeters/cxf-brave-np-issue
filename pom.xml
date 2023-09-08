@@ -24,7 +24,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-cloud.version>Hoxton.SR1</spring-cloud.version>
-        <wiremock.version>2.26.0</wiremock.version>
+        <wiremock.version>2.35.1</wiremock.version>
     </properties>
 
     <dependencies>
